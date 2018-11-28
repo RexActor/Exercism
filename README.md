@@ -1,2 +1,0 @@
-# Exercism
-Programming Challanges
